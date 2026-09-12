@@ -1,0 +1,31 @@
+Ticker,Company,Sector,Quantity,Purchase_Price,Current_Price,Purchase_Date
+AAPL,Apple Inc.,Technology,25,145.30,228.50,2022-03-15
+MSFT,Microsoft Corp.,Technology,15,265.80,425.20,2021-11-02
+GOOGL,Alphabet Inc.,Technology,10,98.40,168.30,2022-06-20
+AMZN,Amazon.com Inc.,Consumer Discretionary,20,102.50,185.90,2022-09-10
+NVDA,NVIDIA Corp.,Technology,30,18.75,118.60,2020-08-05
+TSLA,Tesla Inc.,Consumer Discretionary,12,215.60,248.30,2023-01-18
+META,Meta Platforms Inc.,Technology,18,180.20,502.40,2022-12-01
+JPM,JPMorgan Chase & Co.,Financials,22,128.90,215.70,2021-05-14
+V,Visa Inc.,Financials,16,198.40,285.60,2022-02-28
+JNJ,Johnson & Johnson,Healthcare,28,155.30,162.80,2021-07-09
+UNH,UnitedHealth Group,Healthcare,8,425.60,530.20,2022-04-22
+PG,Procter & Gamble,Consumer Staples,20,142.80,168.90,2021-09-30
+XOM,Exxon Mobil Corp.,Energy,35,58.40,118.50,2021-12-15
+CVX,Chevron Corp.,Energy,25,95.20,155.30,2022-01-10
+HD,Home Depot Inc.,Consumer Discretionary,10,298.50,412.60,2021-08-17
+DIS,Walt Disney Co.,Communication Services,30,145.60,98.40,2021-06-25
+NFLX,Netflix Inc.,Communication Services,6,385.20,742.80,2022-05-03
+KO,Coca-Cola Co.,Consumer Staples,40,52.30,68.90,2020-11-20
+PFE,Pfizer Inc.,Healthcare,45,38.60,26.40,2021-02-14
+BA,Boeing Co.,Industrials,14,198.70,168.90,2022-07-08
+CAT,Caterpillar Inc.,Industrials,12,168.40,385.60,2021-10-05
+NKE,Nike Inc.,Consumer Discretionary,18,128.90,78.60,2022-08-19
+ADBE,Adobe Inc.,Technology,9,385.60,485.20,2022-03-30
+CRM,Salesforce Inc.,Technology,11,168.50,298.40,2022-11-12
+BAC,Bank of America Corp.,Financials,50,32.80,42.60,2021-04-08
+WMT,Walmart Inc.,Consumer Staples,25,48.60,82.40,2021-01-25
+PYPL,PayPal Holdings Inc.,Technology,20,185.30,68.90,2021-07-20
+INTC,Intel Corp.,Technology,40,52.40,24.80,2020-12-10
+COST,Costco Wholesale Corp.,Consumer Staples,7,385.60,895.40,2021-03-18
+AMD,Advanced Micro Devices,Technology,22,78.60,152.30,2022-10-14
